@@ -1,4 +1,4 @@
-public class TiposVariaveis {
+public class Tipos_variaveis {
     public static void main(String[] args) throws Exception {
         double salarioMinimo = 2500;
         short quantidadeDeProdutos = 10;
